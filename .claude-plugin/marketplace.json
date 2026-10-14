@@ -1,0 +1,14 @@
+{
+  "name": "agmazin",
+  "owner": {
+    "name": "agmazin"
+  },
+  "description": "Навыки для Claude от agmazin: контент-планы и сценарии коротких роликов",
+  "plugins": [
+    {
+      "name": "shorts-content-velizhanin",
+      "source": "./plugins/shorts-content-velizhanin",
+      "description": "Контент-планы и сценарии шортсов, Reels и клипов по методике Николая Велижанина: хуки, форматы, удержание, упаковка, рецепты по нишам"
+    }
+  ]
+}
