@@ -1,4 +1,4 @@
-# Навыки для Claude от agmazin
+# Навык для Claude про шортсы от agmazin
 
 Маркетплейс плагинов для Claude: подключается один раз, обновления приходят сами.
 
@@ -10,7 +10,7 @@
 
 ## Установка в Claude (сайт, приложение)
 
-1. Customize -> Plugins -> Add -> Add marketplace, введите `agmazin/claude-skills`.
+1. Customize -> Plugins -> Add -> Add marketplace, введите `agmazin/shorts-skills`.
 2. Добавьте плагин `shorts-content-velizhanin`.
 3. В маркетплейсе включите Sync automatically - обновления будут приходить сами.
 
@@ -19,7 +19,7 @@
 ## Установка в Claude Code из терминала
 
 ```
-/plugin marketplace add agmazin/claude-skills
+/plugin marketplace add agmazin/shorts-skills
 /plugin install shorts-content-velizhanin@agmazin
 ```
 
